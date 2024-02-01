@@ -1,4 +1,4 @@
-# nuxt2-demo
+# nuxt2-demo(yarn)
 
 ## package update
 
