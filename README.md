@@ -7,6 +7,7 @@ from github repo or npm
 - "@nuxtjs/stylelint-module": "^4.2.2"
 - "@nuxtjs/tailwindcss": "^6.11.2"
 - "stylelint-config-standard": "^19.0.0"
+- "stylelint-config-recommended": "^14.0.0",
 
 ## node version
 
